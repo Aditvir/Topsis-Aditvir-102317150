@@ -95,7 +95,7 @@ MIT License - See LICENSE.txt for details
 ## Author
 
 **Aditvir Rinwa** (Roll No: 102317150)
-- GitHub: [@krishmahajan7](https://github.com/Aditvir)
+- GitHub: [@Aditvir](https://github.com/Aditvir)
 
 ## Repository
 
