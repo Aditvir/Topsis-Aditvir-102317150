@@ -6,7 +6,7 @@ setup(
   version = '0.1',
   license='MIT',
   description = 'A Python implementation of TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) for multi-criteria decision analysis',
-  author = 'Krish Mahajan',
+  author = 'Aditvir Rinwa',
   author_email = 'aditvir@example.com',
   url = 'https://github.com/Aditvir/Topsis-Aditvir-102317150',
   download_url = 'https://github.com/Aditvir/Topsis-Aditvir-102317150/archive/v_0.1.tar.gz',
