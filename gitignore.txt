@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+TOPSIS_Aditvir_10217150.egg-info/
+dist/
+build/
